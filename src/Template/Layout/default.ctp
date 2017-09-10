@@ -7,6 +7,8 @@
         Tienda Virtual:
         <?= $this->fetch('title') ?>
     </title>
+    
+    
     <?= $this->Html->meta('icon') ?>
     
     <?= $this->Html->css('bootstrap.min')?>
